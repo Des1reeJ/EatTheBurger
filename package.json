@@ -1,0 +1,28 @@
+{
+  "name": "eattheburger",
+  "version": "1.0.0",
+  "description": "restaurant app that allows users to choose what burger they want to eat",
+  "main": "index.js",
+  "scripts": {
+    "test": "burger"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Des1reeJ/EatTheBurger.git"
+  },
+  "keywords": [
+    "appbruger"
+  ],
+  "author": "DesireeJohnson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Des1reeJ/EatTheBurger/issues"
+  },
+  "homepage": "https://github.com/Des1reeJ/EatTheBurger#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "express-handlebars": "^3.0.0",
+    "mysql": "^2.16.0"
+  }
+}
